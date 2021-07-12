@@ -1,4 +1,4 @@
-![DB WORLD](/src/img/logo.jpg)
+![DB WORLD](src/assets/img/logo.jpg)
 
 # DB WORLD
 
