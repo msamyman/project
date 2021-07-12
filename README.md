@@ -79,7 +79,7 @@ The endpoints that available from the provided API.
 
 ## Tutorial
 
-YouTube Link: -
+YouTube Link: https://youtu.be/Wib-70u4u0k
 
 .
 
