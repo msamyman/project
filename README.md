@@ -10,7 +10,12 @@ Project - IT524048Q Full Stack Web Development
 
 DB WORLD is a film online shop. It is going to deploy this e-shop website on cloud services platform via MongoDB.
 
-In this stage, DB WORLD going to create the major web site with film management through VueJS. All the information in the web site, including the authorization features, are provided by the API. The officail API location will be announced in the lesson and Moodle.
+In this stage, DB WORLD going to create the major web site with film management through VueJS. All the information in the web site, including the authorization features, are provided by the API.
+
+.
+
+### Sitemap
+![Site Map](src/assets/img/sitemap.jpg)
 
 .
 
